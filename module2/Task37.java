@@ -29,7 +29,6 @@ public class Task37 {
 		} else {
 			System.out.println("Треугольника с такой стороной быть не может!");
 		}
-
 	}
 
 }
