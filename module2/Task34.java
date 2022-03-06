@@ -34,10 +34,7 @@ public class Task34 {
 		System.out.println("Old array");
 		for(int i = 0; i<n; i++) {
 			f[i] = new Fraction((int)(Math.random()*100),(int)(Math.random()*100));
-			if(f[i].nod(f[i].getNumerator(),f[i].getDenomenator())!=0) {
-				f[i].setDenomenator(f[i].getDenomenator()/f[i].nod(f[i].getNumerator(),f[i].getDenomenator()));
-				f[i].setNumerator(f[i].getNumerator()/f[i].nod(f[i].getNumerator(),f[i].getDenomenator()));
-			}
+			f[i].reduceFrac();
 			proizv*=f[i].getDenomenator();
 			System.out.print(f[i].getNumerator()+"/"+f[i].getDenomenator()+" ");
 
@@ -76,7 +73,7 @@ class Fraction{
 	}
 	
 	public int getDenomenator() {
-		return this.q;
+		return q;
 	}
 	
 	public void setNumerator(int p) {
@@ -84,7 +81,7 @@ class Fraction{
 	}
 	
 	public int getNumerator() {
-		return this.p;
+		return p;
 	}
 	
 	public int nod(int p, int q) {
@@ -99,5 +96,12 @@ class Fraction{
 	}
 	
 	
+	public void reduceFrac() {
+		int b = nod(this.p,this.q);
+		if(b!=0) {
+			this.p = this.p/b;
+			this.q = this.q/b;
+		}
+	}
 	
 }
