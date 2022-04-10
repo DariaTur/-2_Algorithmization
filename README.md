@@ -111,7 +111,7 @@ The second module of course "Introduction to Java"
 [![A65501A9-FE25-48F4-ACDC-83421FE143F8_1_201_a](https://user-images.githubusercontent.com/97191466/162635057-59b4297a-0ccf-4f5c-a567-17d7352ff0c7.jpeg)
 ](https://github.com/DariaTur/2_Algorithmization/blob/main/module2/Task34.java)
 -----------------------------------------------------------------------------------------------------
-#Декомпозиция с использованием методов(подпрограммы)
+# Декомпозиция с использованием методов(подпрограммы)
 -----------------------------------------------------------------------------------------------------
 [![A3B69620-3794-4370-9EF3-6898137C5BA8_1_201_a](https://user-images.githubusercontent.com/97191466/162635070-7f2efc12-8d9e-4666-9cf5-8b728815f82a.jpeg)
 ](https://github.com/DariaTur/2_Algorithmization/blob/main/module2/Task35.java)
