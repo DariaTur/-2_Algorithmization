@@ -85,6 +85,8 @@ The second module of course "Introduction to Java"
 [![4B45D6F5-DDF6-4A24-AD43-AE55E7AD47CF_1_201_a](https://user-images.githubusercontent.com/97191466/162634852-4087f6e6-a666-47c1-8bd4-6a26c3161228.jpeg)
 ](https://github.com/DariaTur/2_Algorithmization/blob/main/module2/Task26.java)
 -----------------------------------------------------------------------------------------------------
+# Одномерные массивы. Сортировки
+-----------------------------------------------------------------------------------------------------
 [![EFA2071B-0169-472F-B99F-5B95B8A0003E_1_201_a](https://user-images.githubusercontent.com/97191466/162634914-725b0509-260c-4955-8cd4-1b828c7a3925.jpeg)
 ](https://github.com/DariaTur/2_Algorithmization/blob/main/module2/Task27.java)
 -----------------------------------------------------------------------------------------------------
@@ -106,19 +108,28 @@ The second module of course "Introduction to Java"
 [![5EF67469-578E-4C43-8350-057C2D66AD92_1_201_a](https://user-images.githubusercontent.com/97191466/162634964-3fcba098-5fae-400f-addf-07c633d06977.jpeg)
 ](https://github.com/DariaTur/2_Algorithmization/blob/main/module2/Task33.java)
 -----------------------------------------------------------------------------------------------------
-[](https://github.com/DariaTur/2_Algorithmization/blob/main/module2/Task34.java)
+[![A65501A9-FE25-48F4-ACDC-83421FE143F8_1_201_a](https://user-images.githubusercontent.com/97191466/162635057-59b4297a-0ccf-4f5c-a567-17d7352ff0c7.jpeg)
+](https://github.com/DariaTur/2_Algorithmization/blob/main/module2/Task34.java)
 -----------------------------------------------------------------------------------------------------
-[](https://github.com/DariaTur/2_Algorithmization/blob/main/module2/Task35.java)
+#Декомпозиция с использованием методов(подпрограммы)
 -----------------------------------------------------------------------------------------------------
-[](https://github.com/DariaTur/2_Algorithmization/blob/main/module2/Task36.java)
+[![A3B69620-3794-4370-9EF3-6898137C5BA8_1_201_a](https://user-images.githubusercontent.com/97191466/162635070-7f2efc12-8d9e-4666-9cf5-8b728815f82a.jpeg)
+](https://github.com/DariaTur/2_Algorithmization/blob/main/module2/Task35.java)
 -----------------------------------------------------------------------------------------------------
-[](https://github.com/DariaTur/2_Algorithmization/blob/main/module2/Task37.java)
+[![15A2AEB7-1071-4036-AB9E-4CD8A1452CC9_1_201_a](https://user-images.githubusercontent.com/97191466/162635133-4d0415f2-f7cd-4b23-bf17-86a58e3b79d0.jpeg)
+](https://github.com/DariaTur/2_Algorithmization/blob/main/module2/Task36.java)
 -----------------------------------------------------------------------------------------------------
-[](https://github.com/DariaTur/2_Algorithmization/blob/main/module2/Task38.java)
+[![2AC66AD2-C752-412F-BD0E-E325F86DB3E2_1_201_a](https://user-images.githubusercontent.com/97191466/162635142-5ff9f6db-2f76-46e2-b67a-847596b182db.jpeg)
+](https://github.com/DariaTur/2_Algorithmization/blob/main/module2/Task37.java)
 -----------------------------------------------------------------------------------------------------
-[](https://github.com/DariaTur/2_Algorithmization/blob/main/module2/Task39.java)
+[![19711469-0F37-41B5-BB23-FCB982F84CEE_1_201_a](https://user-images.githubusercontent.com/97191466/162635148-bc1e4de9-bc11-463e-9939-685ad8279cc3.jpeg)
+](https://github.com/DariaTur/2_Algorithmization/blob/main/module2/Task38.java)
 -----------------------------------------------------------------------------------------------------
-[](https://github.com/DariaTur/2_Algorithmization/blob/main/module2/Task40.java)
+[![23112BCD-6972-4118-B31C-900FC4AD52FA_1_201_a](https://user-images.githubusercontent.com/97191466/162635154-17bd3a8e-005e-4704-ac59-bed4324b67c1.jpeg)
+](https://github.com/DariaTur/2_Algorithmization/blob/main/module2/Task39.java)
+-----------------------------------------------------------------------------------------------------
+[![35A584FE-965B-4998-8071-47FFC6E73A2E_1_201_a](https://user-images.githubusercontent.com/97191466/162635163-2374a699-6bfb-4368-bb3d-e027fba6d1a3.jpeg)
+](https://github.com/DariaTur/2_Algorithmization/blob/main/module2/Task40.java)
 -----------------------------------------------------------------------------------------------------
 [](https://github.com/DariaTur/2_Algorithmization/blob/main/module2/Task41.java)
 -----------------------------------------------------------------------------------------------------
