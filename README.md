@@ -4,7 +4,6 @@ The second module of course "Introduction to Java"
 # Одномерные массивы
 -----------------------------------------------------------------------------------------------------
 [![08240CFD-857D-4E13-9B7F-39AB6B5E8216_4_5005_c](https://user-images.githubusercontent.com/97191466/162633292-111e7af6-c81c-480c-9fb5-cbce5178128b.jpeg)
-<<<<<<< HEAD
 ](https://github.com/DariaTur/2_Algorithmization/blob/main/module2/Task1.java)
 -----------------------------------------------------------------------------------------------------
 [![13B17591-1020-4CD1-AED2-8345E18100FC_1_201_a](https://user-images.githubusercontent.com/97191466/162633325-208a7971-30b2-4724-96e6-3c5ebb55c3e3.jpeg)
